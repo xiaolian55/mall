@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0e36734-8f0a-496f-b165-408921a5b9ae" name="Default Changelist" comment="hgghfghfgh" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\apache-maven-3.6.1-bin\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xs5ntu5V3g2wXtSHvFVXh9So7j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication (2)">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nikki.mall.tiny.mbg.Generator" />
+      <module name="mall-tiny-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nikki.mall.tiny.mbg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-tiny-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nilkki.mall.tiny.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-tiny-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nikki.mall.tiny.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-tiny-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="malltiny01.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0e36734-8f0a-496f-b165-408921a5b9ae" name="Default Changelist" comment="" />
+      <created>1581822131975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581822131975</updated>
+      <workItem from="1581822138998" duration="988000" />
+      <workItem from="1582637341166" duration="7215000" />
+      <workItem from="1582722449117" duration="4726000" />
+      <workItem from="1582949353946" duration="336000" />
+      <workItem from="1583024767945" duration="9479000" />
+      <workItem from="1583662386425" duration="28849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583051497115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583051497115" />
+    <state x="856" y="279" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582639823062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="856" y="279" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582639823062" />
+    <state x="865" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1583056807772">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="865" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583056807772" />
+    <state x="708" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584274246121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="708" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1584274246121" />
+    <state x="372" y="8" key="CommitChangelistDialog2" timestamp="1584542754833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584542754833" />
+    <state x="865" y="184" key="FileChooserDialogImpl" timestamp="1584542826827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="865" y="184" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584542826827" />
+    <state x="631" y="303" width="273" height="274" key="Github.ShareDialog" timestamp="1584542138035">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="631" y="303" width="273" height="274" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1584542138035" />
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1584539385662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584539385662" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1584539385662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584539385662" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1584539385662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584539385662" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1584539385662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584539385662" />
+    <state width="788" height="455" key="GridCell.Tab.1.bottom" timestamp="1584453789393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="788" height="455" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584453789393" />
+    <state width="788" height="455" key="GridCell.Tab.1.center" timestamp="1584453789393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="788" height="455" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584453789393" />
+    <state width="788" height="455" key="GridCell.Tab.1.left" timestamp="1584453789393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="788" height="455" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584453789393" />
+    <state width="788" height="455" key="GridCell.Tab.1.right" timestamp="1584453789393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="788" height="455" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584453789393" />
+    <state x="598" y="100" key="Maven.ArtifactSearchDialog" timestamp="1583057383210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="100" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583057383210" />
+    <state x="370" y="109" key="SettingsEditor" timestamp="1584542805779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="370" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584542805779" />
+    <state x="657" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1583662384776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="657" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583662384776" />
+    <state x="447" y="11" width="903" height="801" key="find.popup" timestamp="1584539818595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="11" width="903" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1584539818595" />
+    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584451980802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="734" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584451980802" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/controller/PmsBrandController.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
