@@ -1,13 +1,33 @@
 server:
   port: 8080
+  address: 127.0.0.1
 
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/mall?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
     username: root
     password: root
+  redis:
+    host: localhost #Redis server address
+    database: 0 # redis database index (default value is 0)
+    port: 6379 # redis server connection port
+    password: 123456  #redis server password( default value is blank)
+    jedis:
+      pool:
+        max-active: 8 #the maximum number of connections to the pool
+        max-wait: -1ms # the maximum blocking wait time to the pool( no limit if is a nagative value)
+        max-idle: 8 #the maximum idle connection
+        min-idle: 0 #the minimum idle connection
+    timeout: 3000ms #timeout of connection
 
 mybatis:
   mapper-locations:
     - classpath:mapper/*.xml
     - classpath*:com/**/mapper/*.xml
+
+redis:
+  key:
+    prefix:
+      authCode: "portal:authCode:"
+    expire:
+      authCode: 120

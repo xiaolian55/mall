@@ -38,59 +38,32 @@
             <version>2.1.1</version>
         </dependency>
         <dependency>
-            <groupId>
-                org.springframework.boot
-            </groupId>
-            <artifactId>
-                spring-boot-starter-aop
-            </artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
-        </dependency>
+        </dependency> -->
         <!--MyBatis分页插件-->
         <dependency>
-            <groupId>
-                com.github.pagehelper
-            </groupId>
-            <artifactId>
-                pagehelper-spring-boot-starter
-            </artifactId>
-            <version>
-                1.2.10
-            </version>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper-spring-boot-starter</artifactId>
+            <version>1.2.10</version>
         </dependency>
         <!--集成druid连接池-->
         <dependency>
-            <groupId>
-                com.alibaba
-            </groupId>
-            <artifactId>
-                druid-spring-boot-starter
-            </artifactId>
-            <version>
-                1.1.10
-            </version>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid-spring-boot-starter</artifactId>
+            <version>1.1.10</version>
         </dependency>
         <!-- MyBatis 生成器 -->
         <dependency>
-            <groupId>
-                org.mybatis.generator
-            </groupId>
-            <artifactId>
-                mybatis-generator-core
-            </artifactId>
-            <version>
-                1.3.3
-            </version>
-        </dependency>
-        <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
+            <groupId>org.mybatis.generator</groupId>
+            <artifactId>mybatis-generator-core</artifactId>
+            <version>1.3.3</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
@@ -128,6 +101,26 @@
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
             <version>2.7.0</version>
+        </dependency>
+
+        <!--redis依赖配置-->
+        <dependency>
+            <groupId>org.springframework.data</groupId>
+            <artifactId>spring-data-redis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-pool2</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
