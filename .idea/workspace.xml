@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e36734-8f0a-496f-b165-408921a5b9ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/common/utils/JwtTokenUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/component/JwtAuthenticationTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/component/RestAuthenticationEntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/component/RestfulAccessDeniedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/controller/UmsAdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/dao/UmsAdminRoleRelationDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/dto/AdminUserDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/dto/UmsAdminLoginParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/mbg/mapper/UmsAdminMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/mbg/model/UmsAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/mbg/model/UmsAdminExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/mbg/model/UmsAdminPermissionRelation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/mbg/model/UmsPermission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/service/UmsAdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/service/impl/UmsAdminServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-tiny-01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-tiny-01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/config/MybatisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nikki/mall/tiny/config/MybatisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nikki/mall/tiny/config/MybatisConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +182,7 @@
       <workItem from="1586083150428" duration="10880000" />
       <workItem from="1586097236957" duration="16640000" />
       <workItem from="1586657997960" duration="19020000" />
-      <workItem from="1587291139032" duration="2332000" />
+      <workItem from="1587291139032" duration="6755000" />
     </task>
     <task id="LOCAL-00001" summary="搭建项目架构">
       <created>1584542961053</created>
@@ -222,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586102756715</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spring cloud and JWT">
+      <created>1587299385559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587299385559</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +214,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="搭建项目架构" />
     <MESSAGE value="redis环境搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis环境搭建" />
+    <MESSAGE value="spring cloud and JWT" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring cloud and JWT" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1584544731468">
@@ -258,10 +242,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="708" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1584274246121" />
-    <state x="414" y="0" key="CommitChangelistDialog2" timestamp="1586102750155">
+    <state x="414" y="0" key="CommitChangelistDialog2" timestamp="1587299378567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="414" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586102750155" />
+    <state x="414" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587299378567" />
     <state x="865" y="184" key="FileChooserDialogImpl" timestamp="1584542826827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -310,10 +294,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="385" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586096660708" />
-    <state x="567" y="207" key="Vcs.Push.Dialog.v2" timestamp="1586102774366">
+    <state x="567" y="207" key="Vcs.Push.Dialog.v2" timestamp="1587300012147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="567" y="207" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586102774366" />
+    <state x="567" y="207" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587300012147" />
     <state x="657" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1587291196308">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
