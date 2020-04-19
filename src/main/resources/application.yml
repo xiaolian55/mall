@@ -31,3 +31,9 @@ redis:
       authCode: "portal:authCode:"
     expire:
       authCode: 120
+
+jwt:
+  tokenHeader: Authorization #JWT存储的请求头
+  secret: mySecret #加密使用的密钥
+  expiration: 604800
+  tokenHead: Bearer
