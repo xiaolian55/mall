@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0e36734-8f0a-496f-b165-408921a5b9ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/component/OrderTimeOutCancelTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikki/mall/tiny/config/SpringTaskConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Spring Boot.DemoApplication (2)">
     <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -182,7 +184,7 @@
       <workItem from="1586083150428" duration="10880000" />
       <workItem from="1586097236957" duration="16640000" />
       <workItem from="1586657997960" duration="19020000" />
-      <workItem from="1587291139032" duration="6755000" />
+      <workItem from="1587291139032" duration="10064000" />
     </task>
     <task id="LOCAL-00001" summary="搭建项目架构">
       <created>1584542961053</created>
@@ -205,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587299385559</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="spring cloud and JWT">
+      <created>1587300054298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587300054298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,10 +227,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="spring cloud and JWT" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Notifications" timestamp="1584544731468">
+    <state x="361" y="71" key="#Notifications" timestamp="1587300096100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584544731468" />
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1587300096100" />
     <state x="422" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586081858836">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -242,10 +251,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="708" y="269" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1584274246121" />
-    <state x="414" y="0" key="CommitChangelistDialog2" timestamp="1587299378567">
+    <state x="414" y="0" key="CommitChangelistDialog2" timestamp="1587300053024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="414" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587299378567" />
+    <state x="414" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587300053024" />
     <state x="865" y="184" key="FileChooserDialogImpl" timestamp="1584542826827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -254,50 +263,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="631" y="303" width="273" height="274" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1584542138035" />
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom" timestamp="1587291984430">
+    <state width="1493" height="228" key="GridCell.Tab.0.bottom" timestamp="1587300202254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587291984430" />
-    <state width="1493" height="228" key="GridCell.Tab.0.center" timestamp="1587291984430">
+    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587300202254" />
+    <state width="1493" height="228" key="GridCell.Tab.0.center" timestamp="1587300202254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587291984430" />
-    <state width="1493" height="228" key="GridCell.Tab.0.left" timestamp="1587291984429">
+    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587300202254" />
+    <state width="1493" height="228" key="GridCell.Tab.0.left" timestamp="1587300202253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587291984429" />
-    <state width="1493" height="228" key="GridCell.Tab.0.right" timestamp="1587291984430">
+    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587300202253" />
+    <state width="1493" height="228" key="GridCell.Tab.0.right" timestamp="1587300202254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587291984430" />
-    <state width="1493" height="228" key="GridCell.Tab.1.bottom" timestamp="1587291984431">
+    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587300202254" />
+    <state width="1493" height="228" key="GridCell.Tab.1.bottom" timestamp="1587300202255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587291984431" />
-    <state width="1493" height="228" key="GridCell.Tab.1.center" timestamp="1587291984431">
+    <state width="1493" height="228" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587300202255" />
+    <state width="1493" height="228" key="GridCell.Tab.1.center" timestamp="1587300202254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587291984431" />
-    <state width="1493" height="228" key="GridCell.Tab.1.left" timestamp="1587291984430">
+    <state width="1493" height="228" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587300202254" />
+    <state width="1493" height="228" key="GridCell.Tab.1.left" timestamp="1587300202254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587291984430" />
-    <state width="1493" height="228" key="GridCell.Tab.1.right" timestamp="1587291984431">
+    <state width="1493" height="228" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587300202254" />
+    <state width="1493" height="228" key="GridCell.Tab.1.right" timestamp="1587300202255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587291984431" />
+    <state width="1493" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587300202255" />
     <state x="400" y="112" key="Maven.ArtifactSearchDialog" timestamp="1586098332752">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="400" y="112" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586098332752" />
-    <state x="385" y="87" key="SettingsEditor" timestamp="1586096660708">
+    <state x="385" y="87" key="SettingsEditor" timestamp="1587300362185">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586096660708" />
-    <state x="567" y="207" key="Vcs.Push.Dialog.v2" timestamp="1587300012147">
+    <state x="385" y="87" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587300362185" />
+    <state x="567" y="207" key="Vcs.Push.Dialog.v2" timestamp="1587300373853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="567" y="207" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587300012147" />
+    <state x="567" y="207" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587300373853" />
     <state x="657" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1587291196308">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
